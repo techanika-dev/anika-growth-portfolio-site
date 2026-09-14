@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[22016,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js","/anika-growth-portfolio-site/_next/static/chunks/2lnogir3j0ynp.js"],""]
+3:I[43592,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js","/anika-growth-portfolio-site/_next/static/chunks/2lnogir3j0ynp.js"],"GrowthRoadmap"]
+4:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"ViewportBoundary"]
+a:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"MetadataBoundary"]
+b:I[27201,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"IconMark"]
+d:I[39756,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"default"]
+e:I[37457,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"default"]
+8:X
+10:X
+10:C
+0:{"buildId":"F2WhdohQukW4ev_GDzcS7","data":[{"rsc":["$","$1","c",{"children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"breadcrumbs container","children":[["$","$L2",null,{"href":"/","children":"Home"}],[["$","span","0",{"children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"roadmap"}]]}]]]}],["$","section",null,{"className":"page-intro container","children":[["$","p",null,{"className":"eyebrow","children":[["$","span",null,{}],"Anika Mehendiratta"]}],["$","h1",null,{"data-reveal":true,"children":"Your growth roadmap."}],["$","p",null,{"className":"page-lead","data-reveal":true,"children":"Explore five practical tracks, from the first diagnostic to ongoing improvement."}]]}],["$","section",null,{"className":"container section-bottom","children":["$","$L3",null,{}]}]],[["$","script","script-0",{"src":"/anika-growth-portfolio-site/_next/static/chunks/2lnogir3j0ynp.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Your growth roadmap. | Anika Mehendiratta"}],["$","meta","1",{"name":"description","content":"Explore five practical tracks, from the first diagnostic to ongoing improvement."}],["$","meta","2",{"name":"application-name","content":"Anika Mehendiratta"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://techanika-dev.github.io/anika-growth-portfolio-site/roadmap/"}],["$","meta","5",{"property":"og:title","content":"Your growth roadmap. | Anika Mehendiratta"}],["$","meta","6",{"property":"og:description","content":"Explore five practical tracks, from the first diagnostic to ongoing improvement."}],["$","meta","7",{"property":"og:url","content":"https://techanika-dev.github.io/anika-growth-portfolio-site/roadmap/"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Your growth roadmap."}],["$","meta","11",{"name":"twitter:description","content":"Explore five practical tracks, from the first diagnostic to ongoing improvement."}],["$","link","12",{"rel":"icon","href":"/anika-growth-portfolio-site/icon.svg?icon.0rvx10w47hrdw.svg","sizes":"any","type":"image/svg+xml"}],["$","$Lb","13",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@c","staleTime":"$8","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"isPartial":"$@f","staleTime":"$8","varyParams":"$10"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+6:null
+12:true
+8:300
+8:C
+11:0
+c:"$undefined"
+f:"$undefined"
+7:"$undefined"

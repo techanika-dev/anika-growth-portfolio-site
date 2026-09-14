@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:I[22016,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js","/anika-growth-portfolio-site/_next/static/chunks/41k0gzz6r78sl.js"],""]
+3:I[53853,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js","/anika-growth-portfolio-site/_next/static/chunks/41k0gzz6r78sl.js"],"ResourceActions"]
+4:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"ViewportBoundary"]
+a:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"MetadataBoundary"]
+8:X
+1b:X
+1b:C
+0:{"buildId":"F2WhdohQukW4ev_GDzcS7","data":[{"rsc":["$","$1","c",{"children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"breadcrumbs container","children":[["$","$L2",null,{"href":"/","children":"Home"}],[["$","span","0",{"children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/resources","children":"Free resources"}]]}],["$","span","1",{"children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Paid Ads Case Study Portfolio"}]]}]]]}],["$","section",null,{"className":"page-intro container","children":[["$","p",null,{"className":"eyebrow","children":[["$","span",null,{}],"Portfolio / Interactive portfolio"]}],["$","h1",null,{"data-reveal":true,"children":"Paid Ads Case Study Portfolio"}],["$","p",null,{"className":"page-lead","data-reveal":true,"children":"Acquisition and campaign-efficiency work with reported outcomes and explicit context."}]]}],["$","section",null,{"className":"container section-bottom","children":[["$","div",null,{"className":"resource-intro-bar","children":[["$","span",null,{"children":"Practical / working teams"}],["$","span",null,{"children":"Use with your own business data and approved evidence."}]]}],"$undefined",["$","div",null,{"className":"resource-guide","children":[["$","article","What the work demonstrates",{"children":[["$","h2",null,{"children":"What the work demonstrates"}],["$","ul",null,{"children":[["$","li","Google and Meta campaign architecture, lead generation, tracking and conversion journeys.",{"children":"Google and Meta campaign architecture, lead generation, tracking and conversion journeys."}],["$","li","Results are reported in the supplied CV and owner-confirmed achievements workbook.",{"children":"Results are reported in the supplied CV and owner-confirmed achievements workbook."}],["$","li","Keep portfolio-wide outcomes separate from the effect of any one campaign.",{"children":"Keep portfolio-wide outcomes separate from the effect of any one campaign."}]]}]]}]]}],"$undefined",["$","$L3",null,{"slug":"paid-ads-portfolio","text":"Paid Ads Case Study Portfolio\n\nAcquisition and campaign-efficiency work with reported outcomes and explicit context.\n\nWhat the work demonstrates\n\n• Google and Meta campaign architecture, lead generation, tracking and conversion journeys.\n\n• Results are reported in the supplied CV and owner-confirmed achievements workbook.\n\n• Keep portfolio-wide outcomes separate from the effect of any one campaign.\n\nAnika Mehendiratta · Original practical resource"}],["$","div",null,{"className":"related-resources","children":[["$","h2",null,{"children":"Put it into practice."}],[["$","$L2","/case-studies/performance-marketing",{"className":"text-link","href":"/case-studies/performance-marketing","children":["Paid acquisition efficiency"," ↗"]}],["$","$L2","/case-studies/tycoon-real-estate",{"className":"text-link","href":"/case-studies/tycoon-real-estate","children":["Tycoon real estate"," ↗"]}],["$","$L2","/case-studies/led-world",{"className":"text-link","href":"/case-studies/led-world","children":["LED World ecommerce"," ↗"]}],["$","$L2","/case-studies/sharjah-national-hotels",{"className":"text-link","href":"/case-studies/sharjah-national-hotels","children":["Multi-property hospitality"," ↗"]}]]]}],["$","div",null,{"className":"resource-next","children":[["$","h2",null,{"children":"Want help applying this?"}],["$","$L2",null,{"className":"button","href":"/book-a-call","children":"Book your free growth audit ↗"}]]}]]}]],[["$","script","script-0",{"src":"/anika-growth-portfolio-site/_next/static/chunks/41k0gzz6r78sl.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Paid Ads Case Study Portfolio | Anika Mehendiratta"}],["$","meta","1",{"name":"description","content":"Acquisition and campaign-efficiency work with reported outcomes and explicit context."}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"]}]}]}],"$L17"]}],"isPartial":"$@18","staleTime":"$8","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$8","varyParams":"$1b"},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$8","varyParams":"$1b"}],"isUpgradeableISRFallback":false,"a":"$@1e","rootVaryParams":null,"needsRuntimeRequest":"$@1f"}
+20:I[27201,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"IconMark"]
+21:I[39756,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"default"]
+22:I[37457,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"default"]
+6:null
+b:["$","meta","2",{"name":"application-name","content":"Anika Mehendiratta"}]
+c:["$","meta","3",{"name":"robots","content":"index, follow"}]
+d:["$","link","4",{"rel":"canonical","href":"https://techanika-dev.github.io/anika-growth-portfolio-site/resources/paid-ads-portfolio/"}]
+e:["$","meta","5",{"property":"og:title","content":"Paid Ads Case Study Portfolio | Anika Mehendiratta"}]
+f:["$","meta","6",{"property":"og:description","content":"Acquisition and campaign-efficiency work with reported outcomes and explicit context."}]
+10:["$","meta","7",{"property":"og:url","content":"https://techanika-dev.github.io/anika-growth-portfolio-site/resources/paid-ads-portfolio/"}]
+11:["$","meta","8",{"property":"og:type","content":"website"}]
+12:["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}]
+13:["$","meta","10",{"name":"twitter:title","content":"Paid Ads Case Study Portfolio"}]
+14:["$","meta","11",{"name":"twitter:description","content":"Acquisition and campaign-efficiency work with reported outcomes and explicit context."}]
+15:["$","link","12",{"rel":"icon","href":"/anika-growth-portfolio-site/icon.svg?icon.0rvx10w47hrdw.svg","sizes":"any","type":"image/svg+xml"}]
+16:["$","$L20","13",{}]
+17:["$","meta",null,{"name":"next-size-adjust","content":""}]
+19:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+1c:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+1f:true
+8:300
+8:C
+1e:0
+18:"$undefined"
+1a:"$undefined"
+1d:"$undefined"
+7:"$undefined"

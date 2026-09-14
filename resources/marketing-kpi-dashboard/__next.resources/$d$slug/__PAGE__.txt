@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:I[22016,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js","/anika-growth-portfolio-site/_next/static/chunks/41k0gzz6r78sl.js"],""]
+3:I[53853,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js","/anika-growth-portfolio-site/_next/static/chunks/41k0gzz6r78sl.js"],"ResourceActions"]
+4:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"ViewportBoundary"]
+a:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"MetadataBoundary"]
+8:X
+1c:X
+1c:C
+0:{"buildId":"F2WhdohQukW4ev_GDzcS7","data":[{"rsc":["$","$1","c",{"children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"breadcrumbs container","children":[["$","$L2",null,{"href":"/","children":"Home"}],[["$","span","0",{"children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/resources","children":"Free resources"}]]}],["$","span","1",{"children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Marketing KPI Dashboard Template"}]]}]]]}],["$","section",null,{"className":"page-intro container","children":[["$","p",null,{"className":"eyebrow","children":[["$","span",null,{}],"Analytics / Excel workbook"]}],["$","h1",null,{"data-reveal":true,"children":"Marketing KPI Dashboard Template"}],["$","p",null,{"className":"page-lead","data-reveal":true,"children":"A clean workbook for spend, leads, acquisition cost, revenue and source attribution."}]]}],["$","section",null,{"className":"container section-bottom","children":[["$","div",null,{"className":"resource-intro-bar","children":[["$","span",null,{"children":"Practical / working teams"}],["$","span",null,{"children":"Use with your own business data and approved evidence."}]]}],["$","a",null,{"className":"button","href":"/anika-growth-portfolio-site/downloads/marketing-kpi-dashboard.xlsx","download":true,"children":["Download ","Excel workbook"]}],["$","div",null,{"className":"resource-guide","children":[["$","article","Measures included",{"children":[["$","h2",null,{"children":"Measures included"}],["$","ul",null,{"children":[["$","li","Spend, impressions, clicks, leads, qualified leads, new customers and attributed revenue.",{"children":"Spend, impressions, clicks, leads, qualified leads, new customers and attributed revenue."}],["$","li","CPC, CPL, qualified CPL, CPA/CAC, conversion rate and ROAS.",{"children":"CPC, CPL, qualified CPL, CPA/CAC, conversion rate and ROAS."}],["$","li","Consistent monthly and channel labels keep reporting comparable.",{"children":"Consistent monthly and channel labels keep reporting comparable."}]]}]]}],["$","article","Reporting rules",{"children":[["$","h2",null,{"children":"Reporting rules"}],["$","ul",null,{"children":[["$","li","Use one currency and period per row.",{"children":"Use one currency and period per row."}],["$","li","Document the attribution window and source system.",{"children":"Document the attribution window and source system."}],["$","li","Never add platform-attributed revenue across channels without addressing overlap.",{"children":"Never add platform-attributed revenue across channels without addressing overlap."}]]}]]}]]}],"$undefined",["$","$L3",null,{"slug":"marketing-kpi-dashboard","text":"Marketing KPI Dashboard Template\n\nA clean workbook for spend, leads, acquisition cost, revenue and source attribution.\n\nMeasures included\n\n• Spend, impressions, clicks, leads, qualified leads, new customers and attributed revenue.\n\n• CPC, CPL, qualified CPL, CPA/CAC, conversion rate and ROAS.\n\n• Consistent monthly and channel labels keep reporting comparable.\n\nReporting rules\n\n• Use one currency and period per row.\n\n• Document the attribution window and source system.\n\n• Never add platform-attributed revenue across channels without addressing overlap.\n\nAnika Mehendiratta · Original practical resource"}],"$undefined",["$","div",null,{"className":"resource-next","children":[["$","h2",null,{"children":"Want help applying this?"}],["$","$L2",null,{"className":"button","href":"/book-a-call","children":"Book your free growth audit ↗"}]]}]]}]],[["$","script","script-0",{"src":"/anika-growth-portfolio-site/_next/static/chunks/41k0gzz6r78sl.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Marketing KPI Dashboard Template | Anika Mehendiratta"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17"]}]}]}],"$L18"]}],"isPartial":"$@19","staleTime":"$8","varyParams":null},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$8","varyParams":"$1c"},{"rsc":"$L1d","isPartial":"$@1e","staleTime":"$8","varyParams":"$1c"}],"isUpgradeableISRFallback":false,"a":"$@1f","rootVaryParams":null,"needsRuntimeRequest":"$@20"}
+21:I[27201,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"IconMark"]
+22:I[39756,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"default"]
+23:I[37457,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"default"]
+6:null
+b:["$","meta","1",{"name":"description","content":"A clean workbook for spend, leads, acquisition cost, revenue and source attribution."}]
+c:["$","meta","2",{"name":"application-name","content":"Anika Mehendiratta"}]
+d:["$","meta","3",{"name":"robots","content":"index, follow"}]
+e:["$","link","4",{"rel":"canonical","href":"https://techanika-dev.github.io/anika-growth-portfolio-site/resources/marketing-kpi-dashboard/"}]
+f:["$","meta","5",{"property":"og:title","content":"Marketing KPI Dashboard Template | Anika Mehendiratta"}]
+10:["$","meta","6",{"property":"og:description","content":"A clean workbook for spend, leads, acquisition cost, revenue and source attribution."}]
+11:["$","meta","7",{"property":"og:url","content":"https://techanika-dev.github.io/anika-growth-portfolio-site/resources/marketing-kpi-dashboard/"}]
+12:["$","meta","8",{"property":"og:type","content":"website"}]
+13:["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}]
+14:["$","meta","10",{"name":"twitter:title","content":"Marketing KPI Dashboard Template"}]
+15:["$","meta","11",{"name":"twitter:description","content":"A clean workbook for spend, leads, acquisition cost, revenue and source attribution."}]
+16:["$","link","12",{"rel":"icon","href":"/anika-growth-portfolio-site/icon.svg?icon.0rvx10w47hrdw.svg","sizes":"any","type":"image/svg+xml"}]
+17:["$","$L21","13",{}]
+18:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1a:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+1d:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+20:true
+8:300
+8:C
+1f:0
+19:"$undefined"
+1b:"$undefined"
+1e:"$undefined"
+7:"$undefined"

@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"ViewportBoundary"]
+8:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"MetadataBoundary"]
+9:I[27201,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"IconMark"]
+b:I[39756,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"default"]
+c:I[37457,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"default"]
+6:X
+e:X
+e:C
+0:{"buildId":"F2WhdohQukW4ev_GDzcS7","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"page-intro container","children":[["$","p",null,{"className":"eyebrow","children":[["$","span",null,{}],"Website information"]}],["$","h1",null,{"data-reveal":true,"children":"Terms of use"}],null]}],["$","section",null,{"className":"container section-bottom legal-copy","children":[["$","p",null,{"children":"The resources and tools on this website are provided free for planning and learning. Estimates use the inputs and assumptions shown on each tool. Review outputs against your own business context before acting."}],["$","p",null,{"children":"You may use the original templates and prompts in your own work. Do not resell the library or present it as your own original collection. Product names belong to their respective owners."}],["$","p",null,{"children":"A free audit or a tool result does not create a paid engagement. Project scope, deliverables, fees and responsibilities are agreed separately."}],["$","p",null,{"children":"For questions, contact anikamehendiratta1@gmail.com."}]]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Terms of use | Anika Mehendiratta"}],["$","meta","1",{"name":"description","content":"Terms of use for the Anika Mehendiratta portfolio."}],["$","meta","2",{"name":"application-name","content":"Anika Mehendiratta"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://techanika-dev.github.io/anika-growth-portfolio-site/terms/"}],["$","meta","5",{"property":"og:title","content":"Terms of use | Anika Mehendiratta"}],["$","meta","6",{"property":"og:description","content":"Terms of use for the Anika Mehendiratta portfolio."}],["$","meta","7",{"property":"og:url","content":"https://techanika-dev.github.io/anika-growth-portfolio-site/terms/"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Terms of use"}],["$","meta","11",{"name":"twitter:description","content":"Terms of use for the Anika Mehendiratta portfolio."}],["$","link","12",{"rel":"icon","href":"/anika-growth-portfolio-site/icon.svg?icon.0rvx10w47hrdw.svg","sizes":"any","type":"image/svg+xml"}],["$","$L9","13",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+4:null
+10:true
+6:300
+6:C
+f:0
+a:"$undefined"
+d:"$undefined"
+5:"$undefined"

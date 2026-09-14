@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:I[22016,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js","/anika-growth-portfolio-site/_next/static/chunks/41k0gzz6r78sl.js"],""]
+3:I[53853,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js","/anika-growth-portfolio-site/_next/static/chunks/41k0gzz6r78sl.js"],"ResourceActions"]
+4:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"ViewportBoundary"]
+a:I[97367,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"MetadataBoundary"]
+8:X
+18:X
+18:C
+0:{"buildId":"F2WhdohQukW4ev_GDzcS7","data":[{"rsc":["$","$1","c",{"children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"breadcrumbs container","children":[["$","$L2",null,{"href":"/","children":"Home"}],[["$","span","0",{"children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/resources","children":"Free resources"}]]}],["$","span","1",{"children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Real Estate Growth Portfolio"}]]}]]]}],["$","section",null,{"className":"page-intro container","children":[["$","p",null,{"className":"eyebrow","children":[["$","span",null,{}],"Portfolio / Interactive portfolio"]}],["$","h1",null,{"data-reveal":true,"children":"Real Estate Growth Portfolio"}],["$","p",null,{"className":"page-lead","data-reveal":true,"children":"Property demand generation, lead qualification, CRM and attribution in context."}]]}],["$","section",null,{"className":"container section-bottom","children":[["$","div",null,{"className":"resource-intro-bar","children":[["$","span",null,{"children":"Practical / working teams"}],["$","span",null,{"children":"Use with your own business data and approved evidence."}]]}],"$undefined",["$","div",null,{"className":"resource-guide","children":[["$","article","Project focus",{"children":[["$","h2",null,{"children":"Project focus"}],["$","ul",null,{"children":[["$","li","The Tycoon project connects Google and Meta acquisition with property-specific landing pages, WhatsApp and CRM qualification.",{"children":"The Tycoon project connects Google and Meta acquisition with property-specific landing pages, WhatsApp and CRM qualification."}],["$","li","The reported $42M+ figure is qualified sales pipeline, not realised revenue.",{"children":"The reported $42M+ figure is qualified sales pipeline, not realised revenue."}],["$","li","Lead counts, cost changes and conversion improvements are attributed to the supplied achievements workbook.",{"children":"Lead counts, cost changes and conversion improvements are attributed to the supplied achievements workbook."}]]}]]}]]}],"$undefined",["$","$L3",null,{"slug":"real-estate-portfolio","text":"Real Estate Growth Portfolio\n\nProperty demand generation, lead qualification, CRM and attribution in context.\n\nProject focus\n\n• The Tycoon project connects Google and Meta acquisition with property-specific landing pages, WhatsApp and CRM qualification.\n\n• The reported $42M+ figure is qualified sales pipeline, not realised revenue.\n\n• Lead counts, cost changes and conversion improvements are attributed to the supplied achievements workbook.\n\nAnika Mehendiratta · Original practical resource"}],["$","div",null,{"className":"related-resources","children":[["$","h2",null,{"children":"Put it into practice."}],[["$","$L2","/case-studies/tycoon-real-estate",{"className":"text-link","href":"/case-studies/tycoon-real-estate","children":["Tycoon Real Estate case study"," ↗"]}]]]}],["$","div",null,{"className":"resource-next","children":[["$","h2",null,{"children":"Want help applying this?"}],["$","$L2",null,{"className":"button","href":"/book-a-call","children":"Book your free growth audit ↗"}]]}]]}]],[["$","script","script-0",{"src":"/anika-growth-portfolio-site/_next/static/chunks/41k0gzz6r78sl.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Real Estate Growth Portfolio | Anika Mehendiratta"}],["$","meta","1",{"name":"description","content":"Property demand generation, lead qualification, CRM and attribution in context."}],["$","meta","2",{"name":"application-name","content":"Anika Mehendiratta"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://techanika-dev.github.io/anika-growth-portfolio-site/resources/real-estate-portfolio/"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13"]}]}]}],"$L14"]}],"isPartial":"$@15","staleTime":"$8","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$8","varyParams":"$18"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$8","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[27201,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"IconMark"]
+1e:I[39756,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"default"]
+1f:I[37457,["/anika-growth-portfolio-site/_next/static/chunks/3_wcyx9_96gwi.js"],"default"]
+6:null
+b:["$","meta","5",{"property":"og:title","content":"Real Estate Growth Portfolio | Anika Mehendiratta"}]
+c:["$","meta","6",{"property":"og:description","content":"Property demand generation, lead qualification, CRM and attribution in context."}]
+d:["$","meta","7",{"property":"og:url","content":"https://techanika-dev.github.io/anika-growth-portfolio-site/resources/real-estate-portfolio/"}]
+e:["$","meta","8",{"property":"og:type","content":"website"}]
+f:["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}]
+10:["$","meta","10",{"name":"twitter:title","content":"Real Estate Growth Portfolio"}]
+11:["$","meta","11",{"name":"twitter:description","content":"Property demand generation, lead qualification, CRM and attribution in context."}]
+12:["$","link","12",{"rel":"icon","href":"/anika-growth-portfolio-site/icon.svg?icon.0rvx10w47hrdw.svg","sizes":"any","type":"image/svg+xml"}]
+13:["$","$L1d","13",{}]
+14:["$","meta",null,{"name":"next-size-adjust","content":""}]
+16:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+19:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+1c:true
+8:300
+8:C
+1b:0
+15:"$undefined"
+17:"$undefined"
+1a:"$undefined"
+7:"$undefined"
