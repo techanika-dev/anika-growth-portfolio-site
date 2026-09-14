@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://techanika-dev.github.io/anika-growth-portfolio-site/sitemap.xml
