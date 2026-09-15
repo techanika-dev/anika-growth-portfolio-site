@@ -1,6 +1,6 @@
 # Anika Mehendiratta — Portfolio
 
-Visit the website: https://techanika-dev.github.io/anika-growth-portfolio-site/
+Visit the website: https://heyanika.com/
 
 This repository contains the generated public portfolio website. The editable Next.js source is maintained separately. The site is published through GitHub Pages when the main branch is updated.
 
