@@ -1,35 +1,31 @@
-1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/3_wcyx9_96gwi.js","/_next/static/chunks/41k0gzz6r78sl.js"],""]
-3:I[95411,["/_next/static/chunks/3_wcyx9_96gwi.js","/_next/static/chunks/41k0gzz6r78sl.js"],"ResourceLibrary"]
-4:I[53853,["/_next/static/chunks/3_wcyx9_96gwi.js","/_next/static/chunks/41k0gzz6r78sl.js"],"ResourceActions"]
-5:I[97367,["/_next/static/chunks/3_wcyx9_96gwi.js"],"OutletBoundary"]
-6:"$Sreact.suspense"
-a:I[97367,["/_next/static/chunks/3_wcyx9_96gwi.js"],"ViewportBoundary"]
-b:I[97367,["/_next/static/chunks/3_wcyx9_96gwi.js"],"MetadataBoundary"]
-9:X
-18:X
-18:C
-0:{"buildId":"F2WhdohQukW4ev_GDzcS7","data":[{"rsc":["$","$1","c",{"children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"breadcrumbs container","children":[["$","$L2",null,{"href":"/","children":"Home"}],[["$","span","0",{"children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/resources","children":"Free resources"}]]}],["$","span","1",{"children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"AI Skills & Prompt Library"}]]}]]]}],["$","section",null,{"className":"page-intro container","children":[["$","p",null,{"className":"eyebrow","children":[["$","span",null,{}],"AI / Searchable prompt library"]}],["$","h1",null,{"data-reveal":true,"children":"AI Skills & Prompt Library"}],["$","p",null,{"className":"page-lead","data-reveal":true,"children":"Search, copy, favourite and export original working prompts across commercial disciplines."}]]}],["$","section",null,{"className":"container section-bottom","children":[["$","div",null,{"className":"resource-intro-bar","children":[["$","span",null,{"children":"Practical / working teams"}],["$","span",null,{"children":"Use with your own business data and approved evidence."}]]}],"$undefined",["$","div",null,{"className":"resource-guide","children":[["$","article","Use prompts responsibly",{"children":[["$","h2",null,{"children":"Use prompts responsibly"}],["$","ul",null,{"children":[["$","li","Replace the bracketed inputs with your own approved information.",{"children":"Replace the bracketed inputs with your own approved information."}],["$","li","Keep personal data and confidential customer information out unless the chosen system is authorised for it.",{"children":"Keep personal data and confidential customer information out unless the chosen system is authorised for it."}],["$","li","Ask the assistant to distinguish facts, assumptions and missing information.",{"children":"Ask the assistant to distinguish facts, assumptions and missing information."}],["$","li","Review the output before it is sent to clients, customers or external systems.",{"children":"Review the output before it is sent to clients, customers or external systems."}]]}]]}]]}],["$","$L3",null,{"kind":"prompts"}],["$","$L4",null,{"slug":"ai-skills-library","text":"AI Skills & Prompt Library\n\nSearch, copy, favourite and export original working prompts across commercial disciplines.\n\nUse prompts responsibly\n\n• Replace the bracketed inputs with your own approved information.\n\n• Keep personal data and confidential customer information out unless the chosen system is authorised for it.\n\n• Ask the assistant to distinguish facts, assumptions and missing information.\n\n• Review the output before it is sent to clients, customers or external systems.\n\nAnika Mehendiratta · Original practical resource"}],"$undefined",["$","div",null,{"className":"resource-next","children":[["$","h2",null,{"children":"Want help applying this?"}],["$","$L2",null,{"className":"button","href":"/book-a-call","children":"Book your free growth audit ↗"}]]}]]}]],[["$","script","script-0",{"src":"/_next/static/chunks/41k0gzz6r78sl.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AI Skills & Prompt Library | Anika Mehendiratta"}],["$","meta","1",{"name":"description","content":"Search, copy, favourite and export original working prompts across commercial disciplines."}],["$","meta","2",{"name":"application-name","content":"Anika Mehendiratta"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://heyanika.com/resources/ai-skills-library/"}],["$","meta","5",{"property":"og:title","content":"AI Skills & Prompt Library | Anika Mehendiratta"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13"]}]}]}],"$L14"]}],"isPartial":"$@15","staleTime":"$9","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$9","varyParams":"$18"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$9","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
-1d:I[27201,["/_next/static/chunks/3_wcyx9_96gwi.js"],"IconMark"]
-1e:I[39756,["/_next/static/chunks/3_wcyx9_96gwi.js"],"default"]
-1f:I[37457,["/_next/static/chunks/3_wcyx9_96gwi.js"],"default"]
-7:null
-c:["$","meta","6",{"property":"og:description","content":"Search, copy, favourite and export original working prompts across commercial disciplines."}]
-d:["$","meta","7",{"property":"og:url","content":"https://heyanika.com/resources/ai-skills-library/"}]
-e:["$","meta","8",{"property":"og:type","content":"website"}]
-f:["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}]
-10:["$","meta","10",{"name":"twitter:title","content":"AI Skills & Prompt Library"}]
-11:["$","meta","11",{"name":"twitter:description","content":"Search, copy, favourite and export original working prompts across commercial disciplines."}]
-12:["$","link","12",{"rel":"icon","href":"/icon.svg?icon.0rvx10w47hrdw.svg","sizes":"any","type":"image/svg+xml"}]
-13:["$","$L1d","13",{}]
-14:["$","meta",null,{"name":"next-size-adjust","content":""}]
-16:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
-19:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
-1c:true
-9:300
-9:C
-1b:0
-15:"$undefined"
-17:"$undefined"
-1a:"$undefined"
-8:"$undefined"
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/2r56adth0cu-3.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/1srjatwj3i7t8.js"
+d:I[22016,["$3","$c"],""]
+e:I[95411,["$3","$c"],"ResourceLibrary"]
+f:I[53853,["$3","$c"],"ResourceActions"]
+10:I[97367,["$3"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$3"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$3"],"$16"]
+18:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"breadcrumbs container","children":[["$","$Ld",null,{"href":"/","children":"Home"}],[["$","span","0",{"children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$Ld",null,{"href":"/resources","children":"Free resources"}]]}],["$","span","1",{"children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"AI Skills & Prompt Library"}]]}]]]}],["$","section",null,{"className":"page-intro container","children":[["$","p",null,{"className":"eyebrow","children":[["$","span",null,{}],"AI / Searchable prompt library"]}],["$","h1",null,{"data-reveal":true,"children":"AI Skills & Prompt Library"}],["$","p",null,{"className":"page-lead","data-reveal":true,"children":"Search, copy, favourite and export original working prompts across commercial disciplines."}]]}],["$","section",null,{"className":"container section-bottom","children":[["$","div",null,{"className":"resource-intro-bar","children":[["$","span",null,{"children":"Practical / working teams"}],["$","span",null,{"children":"Use with your own business data and approved evidence."}]]}],"$undefined",["$","div",null,{"className":"resource-guide","children":[["$","article","Use prompts responsibly",{"children":[["$","h2",null,{"children":"Use prompts responsibly"}],["$","ul",null,{"children":[["$","li","Replace the bracketed inputs with your own approved information.",{"children":"Replace the bracketed inputs with your own approved information."}],["$","li","Keep personal data and confidential customer information out unless the chosen system is authorised for it.",{"children":"Keep personal data and confidential customer information out unless the chosen system is authorised for it."}],["$","li","Ask the assistant to distinguish facts, assumptions and missing information.",{"children":"Ask the assistant to distinguish facts, assumptions and missing information."}],["$","li","Review the output before it is sent to clients, customers or external systems.",{"children":"Review the output before it is sent to clients, customers or external systems."}]]}]]}]]}],["$","$Le",null,{"kind":"prompts"}],["$","$Lf",null,{"slug":"ai-skills-library","text":"AI Skills & Prompt Library\n\nSearch, copy, favourite and export original working prompts across commercial disciplines.\n\nUse prompts responsibly\n\n• Replace the bracketed inputs with your own approved information.\n\n• Keep personal data and confidential customer information out unless the chosen system is authorised for it.\n\n• Ask the assistant to distinguish facts, assumptions and missing information.\n\n• Review the output before it is sent to clients, customers or external systems.\n\nAnika Mehendiratta · Original practical resource"}],"$undefined",["$","div",null,{"className":"resource-next","children":[["$","h2",null,{"children":"Want help applying this?"}],["$","$Ld",null,{"className":"button","href":"/book-a-call","children":"Book your free growth audit ↗"}]]}]]}]],[["$","script","script-0",{"src":"/_next/static/chunks/1srjatwj3i7t8.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"ai-skills-library","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"resources","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AI Skills & Prompt Library | Anika Mehendiratta"}],["$","meta","1",{"name":"description","content":"Search, copy, favourite and export original working prompts across commercial disciplines."}],["$","meta","2",{"name":"application-name","content":"Anika Mehendiratta"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://heyanika.com/resources/ai-skills-library/"}],["$","meta","5",{"property":"og:title","content":"AI Skills & Prompt Library | Anika Mehendiratta"}],["$","meta","6",{"property":"og:description","content":"Search, copy, favourite and export original working prompts across commercial disciplines."}],["$","meta","7",{"property":"og:url","content":"https://heyanika.com/resources/ai-skills-library/"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"AI Skills & Prompt Library"}],["$","meta","11",{"name":"twitter:description","content":"Search, copy, favourite and export original working prompts across commercial disciplines."}],["$","link","12",{"rel":"icon","href":"/icon.svg?icon.0rvx10w47hrdw.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","13",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$8"}},"a":"$@1a","u":"$@1b","b":"4Jjg0sNH_KRxyp47pHuiY"}
+12:null
+1b:true
+8:300
+8:C
+1a:0
+a:"$undefined"
+6:"$undefined"
+19:"$undefined"
+13:"$undefined"
